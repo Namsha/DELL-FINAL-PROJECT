@@ -1,0 +1,22 @@
+git init
+git add .
+git commit -m "this is the message"
+git config user.name "username"
+git config user.email "email"
+git remote add origin https://github.com/username/respiratory name.git
+//redirected for authotication
+git push -u origin master
+
+
+
+click profile icon 
+go to settings
+got to developer settings 
+personal access token
+token classic 
+generate token (classic)
+//give it a name
+//expiration no expiration
+//select all the boxes
+click generate token
+copy the token 
